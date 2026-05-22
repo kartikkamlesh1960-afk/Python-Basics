@@ -43,7 +43,7 @@ print(name1)
 print(name2)
 print(name3)
 
-#----------  arithmetic operator  ----------
+#---------- arithmetic operator ----------
 a = 203893
 b = 6938
 total = a + b
@@ -62,7 +62,7 @@ modulus = a%b
 print("the modulus of a and b is: " , modulus)
 #print( a**b ) # a to the power of b
 
-#----------  relational operator  ----------
+#---------- relational operator ----------
 x = 10
 y = 20
 
@@ -73,7 +73,7 @@ print( x < y ) #true
 print( x >= y ) #false
 print( x <= y ) #true
 
-#----------  assignment operator  ----------
+#---------- assignment operator ----------
 num = 10
 num += 5 # num = num + 5    
 print(num) # 15
@@ -123,3 +123,5 @@ num4 = 5.2
 #type casting
 num3 = int(num3) # convert string to integer
 print(num3 + num4) # 25.2
+
+#----------  End of session  ----------
