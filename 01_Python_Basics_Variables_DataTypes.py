@@ -1,4 +1,4 @@
-# Python basic practice
+# Python notes
 # Author: Kartik sharma
 # Topics: variables, operators, input, type casting
 
